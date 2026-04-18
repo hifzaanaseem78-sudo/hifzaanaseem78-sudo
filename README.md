@@ -3,7 +3,6 @@
 🎓 BSIT Student | Frontend Developer in Progress
 
 ## About Me
-- 🌱 Currently learning React & expanding my frontend skills
 - 💻 Building projects with HTML, CSS & JavaScript
 - 🌱 Currently learning React & expanding my frontend skills
 - 🎯 Looking for a Frontend Development Internship
